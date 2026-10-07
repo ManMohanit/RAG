@@ -1,0 +1,16 @@
+SelfAI Sample Interview Guide
+
+Eligibility requirements
+Candidates should have a basic understanding of Python, SQL, data structures, and object-oriented programming. Freshers are welcome. A portfolio or two small personal projects is recommended.
+
+Tell me about yourself
+Use a three-part structure: present role or education, two relevant strengths or projects, and why you want the specific opportunity. Keep the response between 60 and 90 seconds. Avoid giving your full life story.
+
+Interview preparation
+Read the job description, prepare one STAR-format example for teamwork and one for problem solving, and practise explaining a project you built. Prepare two thoughtful questions for the interviewer.
+
+STAR method
+STAR means Situation, Task, Action, and Result. Start by briefly explaining the situation and your responsibility. Describe the actions you personally took. Finish with a measurable or clear result.
+
+Follow-up after an interview
+Send a short thank-you email within 24 hours. Mention one useful part of the discussion and restate your interest in the role.
